@@ -1,0 +1,7 @@
+Exercise 2.2 A university database contains information about professors (identified by so- cial security number, or SSN) and courses (identified by courseid). Professors teach courses; each of the following situations concerns the Teaches relationship set. For each situation, draw an ER diagram that describes it (assuming no further constraints hold).
+1. Professors can teach the same course in several semesters, and each offering must be recorded.
+2. Professors can teach the same course in several semesters, and only the most recent such offering needs to be recorded. (Assume this condition applies in all subsequent questions. )
+3. Every professor must teach some course.
+4. Every professor teaches exactly one course (no more, no less).
+5. Every professor teaches exactly one course (no more, no less), and every course must be taught by some professor.
+6. Now suppose that certain courses can be taught by a team of professors jointly, but it is possible that no one professor in a team can teach the course. Model this situation, introducing additional entity sets and relationship sets if necessary.
